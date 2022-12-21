@@ -1,0 +1,54 @@
+body{
+    width: 400px;
+    height: 410px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 150px;
+    border: thin solid rgb(223, 227, 229);
+    border-radius: 8px;
+    padding: 30px 25px 50px 25px;
+    font-family: 'Noto Sans Malayalam', sans-serif;
+}
+#img{
+    width: 150px;
+    margin: 0;
+}
+#h3{
+    margin: 0;
+    font-size: 25px;
+    font-weight: 300px;
+}
+.p{
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+input{
+    width: 345px;
+    margin-left:20px;
+    padding:15px 0px 15px 25px;
+    border: thin solid rgb(187, 191, 192);
+    border-radius: 4px;
+}
+#p1{
+    padding-top: 50px;
+    font-size: 13px;
+}
+.p2{
+    margin: 0;
+}
+.div{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+#c{
+    color: rgb(92, 160, 255);
+}
+#d{
+    width: 75px;
+    height: 40px;
+    background-color: rgb(92, 160, 255);
+    border: none;
+    border-radius: 5px;
+}

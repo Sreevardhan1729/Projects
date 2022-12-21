@@ -1,0 +1,44 @@
+body{
+    font-family: 'Happy Monkey', cursive;
+    text-align: center;
+    margin-top: 70px;
+    background: linear-gradient(lightskyblue,white);
+    /* background-color: #a2d2ff; */
+    color: #ffffff;
+    text-shadow: 0px 0px 2px black;
+}
+.img{
+    border-radius: 75px;
+    width: 150px;
+    border: 6px solid #EFB0C9;
+}
+.span{
+    padding: 5px 10px;
+    background-color: #EFB0C9;
+    border-radius: 5px;
+}
+.span:hover{
+    background-color: lightcoral;
+    font-size: 20px;
+}
+.gift{
+    margin-top: 50px;
+}
+.gif{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border: 6px solid white;
+    border-radius: 10px;
+    background-image: url("https://i.pinimg.com/736x/95/1a/0d/951a0df30854e02902e04a03206c8b59.jpg");
+    background-size: cover;
+}
+.gif:hover{
+    width: 400px;
+    height: 400px;
+    background-image: url("https://img.freepik.com/free-vector/happy-birthday-lettering-with-golden-letters_52683-35047.jpg?w=2000");
+    background-size: cover;
+}
+.a{
+    color: white;
+}
